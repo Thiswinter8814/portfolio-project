@@ -1,0 +1,10 @@
+
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+werkzeug
+python-dotenv
+Flask-Pydantic
+pydantic
+email-validator
+gunicorn
